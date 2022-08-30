@@ -1,0 +1,24 @@
+table, th, td, div {
+    /* aqui dentro escribire reglas css */
+    border: 1px solid black;
+}
+
+.hi{
+    border: none;
+    color: aqua;
+    font-size: 2cm;
+}
+
+.howareu{
+    border: 10px dotted blue;
+    background-color: chartreuse;
+    color: blueviolet;
+    font-size: 1rem;
+}
+
+
+#id_container {
+
+    
+
+}
