@@ -1,0 +1,20 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+h1{
+    color: hotpink;
+}
+
+.button__key-frames--hotpink {
+    width: 144px;
+    height: 42px;
+    background-color: hotpink;
+    color: white;
+    margin: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
